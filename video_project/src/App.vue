@@ -19,7 +19,7 @@ import SearchBar from "./components/SearchBar";
 import VideoList from "./components/VideoList";
 import VideoDetail from "./components/VideoDetail";
 
-const API_KEY = "AIzaSyA35UAgj8JrSAx5yCZap4ZZIDQlbp550Nc";
+const API_KEY = "";
 
 export default {
   name: "App",
